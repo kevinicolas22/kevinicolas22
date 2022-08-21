@@ -14,16 +14,11 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-<div>
   
-  <img height="140px" src="https://user-images.githubusercontent.com/110949619/185773485-16db4c2c-91e4-4114-a841-13a8cb1060d8.jpg"/>
-
-
-
-
+<div>
+  <img align="right" height="140px" style="border-radius:50px;" src="https://user-images.githubusercontent.com/110949619/185773485-16db4c2c-91e4-4114-a841-13a8cb1060d8.jpg"/>
 </div>
-
+  
 ##
 
 <div align="center"> 
