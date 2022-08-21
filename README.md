@@ -16,7 +16,7 @@
 </div>
   
 <div>
-  <img align="right" height="140px" style="border-radius:50px;" src="https://user-images.githubusercontent.com/110949619/185773485-16db4c2c-91e4-4114-a841-13a8cb1060d8.jpg"/>
+  <img align="right" height="130px" style="border-radius:50px;" src="https://user-images.githubusercontent.com/110949619/185773485-16db4c2c-91e4-4114-a841-13a8cb1060d8.jpg"/>
 </div>
   
 ##
