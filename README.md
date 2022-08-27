@@ -1,6 +1,6 @@
 ## Hi! I'm Kevin Nicolas 🖐️
 
-- 📘 Estudando Desenvolvimento Web
+- 📘 Studying Web Development
 
 <div align="center">
   <a href="www.linkedin.com/in/kevinicolas">
