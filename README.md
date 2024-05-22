@@ -21,6 +21,7 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
   <img align="center" alt="Prolog" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg">
+  <img align="center" alt="Clojure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
