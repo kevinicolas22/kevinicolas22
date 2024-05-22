@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Nicolas! 🖐️
 
-## 📘 Full Stack Developer | JavaScript | Python | Java | C | Haskell | Prolog | SQL
+## 📘 Full Stack Developer | JavaScript | Python | Java | Clojure | C | Haskell | Prolog | SQL
 
 <div align="center">
   <a href="www.linkedin.com/in/kevinicolas">
