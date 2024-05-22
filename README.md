@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Nicolas! 🖐️
 
-## 📘 Full Stack Developer | JavaScript | Python | Java | C
+## 📘 Full Stack Developer | JavaScript | Python | Java | C | Haskell | Prolog | SQL
 
 <div align="center">
   <a href="www.linkedin.com/in/kevinicolas">
@@ -19,6 +19,9 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
+  <img align="center" alt="Prolog" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
@@ -29,10 +32,12 @@
 ## Connect with Me
 
 <div align="center">
+  <a href="https://kevinicolas22.github.io/PortFolio/" target="_blank"><img src="https://img.shields.io/badge/-PortFolio-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="PortFolio"></a>
   <a href="https://instagram.com/helptech.cg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/kevinicolas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a> 
   <a href="https://instagram.com/kevinn.s.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
 </div>
+
 
 ![Animated Octocat](https://myoctocat.com/assets/images/base-octocat.svg)
 
