@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Nicolas! 🖐️
 
-## 📘 Developer | Data Science | JavaScript | Python | Java | Clojure | C | Haskell | Prolog | SQL
+## 📘 Data Science at DataTech Solutions | Full Stack | Django | JavaScript | Spring B. | BD | Data Mining | BI | RNN | PLN | Machine L.
 
 <div align="center">
   <a href="www.linkedin.com/in/kevinicolas">
