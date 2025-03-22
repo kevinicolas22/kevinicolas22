@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Nicolas! 🖐️
 
-## 📘 Data Science at DataTech Solutions | Full Stack | Django | JavaScript | Spring B. | BD | Data Mining | BI | RNN | PLN | Machine L.
+## 📘 Data Science at DataTech Solutions | Full Stack | Data Science| Django | React | Spring | Angular | TypeScript |  AWS | Postgrees |
 
 <div align="center">
   <a href="www.linkedin.com/in/kevinicolas">
@@ -13,6 +13,7 @@
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -22,6 +23,7 @@
   <img align="center" alt="Clojure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Data Science" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 
