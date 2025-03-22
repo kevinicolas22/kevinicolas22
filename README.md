@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Nicolas! 🖐️
 
-## 📘 Data Science at DataTech Solutions | Full Stack | Data Science| Django | React | Spring | Angular | TypeScript |  AWS | Postgrees |
+## 📘 Dev at Virtus | Full Stack | Data Science| Django | React | Spring | Angular | TypeScript |  AWS | Postgrees |
 
 <div align="center">
   <a href="www.linkedin.com/in/kevinicolas">
