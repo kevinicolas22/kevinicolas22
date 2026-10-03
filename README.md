@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="www.linkedin.com/in/kevinicolas">
-    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=kevinicolas22&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinicolas22&layout=compact&langs_count=7&theme=radical" alt="Top Languages"/>
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=kevinicolasdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinicolasdev&layout=compact&langs_count=7&theme=radical" alt="Top Languages"/>
   </a>
 </div>
 
@@ -34,7 +34,7 @@
 ## Connect with Me
 
 <div align="center">
-  <a href="https://kevinicolas22.github.io/PortFolio/" target="_blank"><img src="https://img.shields.io/badge/-PortFolio-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="PortFolio"></a>
+  <a href="https://kevinicolasdev.github.io/PortFolio/" target="_blank"><img src="https://img.shields.io/badge/-PortFolio-%230077B5?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="PortFolio"></a>
   <a href="https://instagram.com/helptech.cg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/kevinicolas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a> 
   <a href="https://instagram.com/kevinn.s.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
